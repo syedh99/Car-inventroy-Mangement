@@ -1,0 +1,23 @@
+﻿  genericcar.cpp
+  Main.cpp
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(374,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(397,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(441,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(450,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(496,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(540,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\CompSci Final Project\Main.cpp(579,25): warning C4018: '<': signed/unsigned mismatch
+  newcar.cpp
+  oldcar.cpp
+  Generating Code...
+  CompSci Final Project.vcxproj -> C:\Users\syed_\OneDrive - Wayne State University\CompSciClass\CompSci Final Project\Debug\CompSci Final Project.exe
